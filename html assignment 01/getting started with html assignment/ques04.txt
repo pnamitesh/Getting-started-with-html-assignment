@@ -1,0 +1,9 @@
+Ans :04 HTML tags are the starting and ending parts of an HTML element. 
+They begin with < symbol and end with > symbol. Whatever written inside < and > are called tags.
+ For example, <p> is a tag that denotes a paragraph.
+
+HTML elements enclose the contents in between the tags.
+ They consist of some kind of structure or expression.
+  It generally consists of a start tag, content, and an end tag. 
+  For example, <p>This is the content.</p> is an HTML element where <p> is the starting tag, This is the content. is the content, and </p> is the ending tag.
+

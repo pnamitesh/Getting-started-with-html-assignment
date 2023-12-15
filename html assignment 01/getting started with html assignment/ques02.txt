@@ -1,0 +1,2 @@
+Ans 02:- The purpose of the comments in the html is to provide the information to the user about the code.
+We dont want our comments to be rendered to the   browser so we write our comments between <!-- (comments) -->. 
